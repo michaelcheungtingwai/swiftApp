@@ -3,7 +3,7 @@
 //  test2
 //
 //  Created by Michael Cheung on 1/10/2017.
-//  Copyright © 2017 Michael Cheung. All rights reserved.
+//  Copyright © 2017 Michael Cheung. All rights reserved..
 //
 
 import UIKit

@@ -3,7 +3,7 @@
 //  test2
 //
 //  Created by Michael Cheung on 1/10/2017.
-//  Copyright © 2017 Michael Cheung. All rights reserved.
+//  Copyright © 2017 Michael Cheung. All rights reserved..
 //
 
 import UIKit
@@ -18,9 +18,9 @@ class ViewController: UIViewController {
     
     @IBAction func change(_ sender: Any) {
       tapCount = tapCount + 1
-        helloText.text = "Damn U tapped 10 times bruh !"
-        if tapCount >= 10 {
-            helloText.text = "Damn U tapped 10 times bruh !"
+        helloText.text = "Damn U tapped 20 times bruh !"
+        if tapCount >= 20 {
+            helloText.text = "Damn U tapped 20 times bruh !"
         }
         
         
